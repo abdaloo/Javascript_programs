@@ -11,5 +11,5 @@ if(isNaN){
     }
 
 }else{
-    alert("Please enter a string");
+    alert("Please enter a username and password");
 }
